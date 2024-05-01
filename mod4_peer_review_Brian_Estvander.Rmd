@@ -1,0 +1,79 @@
+######### Module 4 Peer Reviewed assignment-Brian Estvander ###########
+# Read in the data----
+
+```{r}
+df <- read.csv('mod4_peer_rev_data.csv')
+```
+
+# Transform columns to appropriate data types----
+
+# Summerize Quantity and Price Columns----
+
+```{r}
+summary(df$Quantity)
+```
+```{r}
+summary(df$Price)
+```
+# Display total NA's----
+
+```{r}
+na_tcount <- colSums(is.na(df))
+print(na_tcount)
+```
+# Create a Bar chart for categories----
+
+```{r}
+library(ggplot2)
+
+ggplot(df, aes(x = Category)) +
+  geom_bar(fill = "blue") +
+  labs(title = "Frequency of Each Category",
+       x = "Category",
+       y = "Frequency") +
+  theme_minimal()
+```
+
+# Create a Bar chart of Revenue for Departments----
+
+```{r}
+# Have to multiply Quantity and Price to get revenue----
+df$Revenue <- df$Price * df$Quantity
+
+# Combine revenue of each department and sort-----
+department_revenue <- aggregate(Revenue ~ Department, data = df, FUN = sum)
+department_revenue <- department_revenue[order(department_revenue$Revenue, decreasing = FALSE), ]
+
+# Create the bar chart after sorting----
+ggplot(department_revenue, aes(x = reorder(Department, -Revenue), y = Revenue)) +
+  geom_bar(stat = "identity", fill = "blue") +
+  labs(title = "Revenue by Department", x = "Department", y = "Revenue") +
+  theme_minimal() + theme(axis.text.x = element_text(angle = 0, hjust = 0.5))
+
+```
+# Create seperate Box and whisker plot and histogram chart for Price and Quantity----
+
+```{r}
+# Load the ggplot2 library
+library(ggplot2)
+
+# Box plot of the Price column
+ggplot(df, aes(y = Price)) + geom_boxplot(fill = "red", color = "black") +
+  labs(title = "Box Plot of Price")
+```
+```{r}
+ggplot(df, aes(x = Price)) +
+  geom_histogram(binwidth = 2, fill = "red", color = "black") +
+  labs(title = "Histogram of Price")
+```
+```{r}
+ggplot(df, aes(y = Quantity)) +
+  geom_boxplot(fill = "red", color = "black") +
+  labs(title = "Box Plot of Quantity")
+```
+```{r}
+ggplot(df, aes(x = Quantity)) +
+  geom_histogram(binwidth = 1, fill = "red", color = "black") +
+  labs(title = "Histogram of Quantity")
+```
+# essay (150-200 words) to compare the strengths and weaknesses of (1) Power BI and (2) Alteryx with that of R, for this kind of analysis. - Power BI offers excellent visualization capabilities with interactive dashboards, making it easy to explore data. However, for advanced analysis and data manipulation, its capabilities might be limited compared to Alteryx and R. Sharing results can be done through Power BI reports, but it requires recipients to have Power BI access.Alteryx provides a user-friendly interface for data preparation and blending. It offers a wide range of tools for data cleansing, transformation, and predictive analytics. However, Alteryx might be expensive for individual users and might have a steeper learning curve compared to Power BI.R provides unparalleled flexibility and control over analysis. It has extensive libraries for data manipulation, statistical modeling, and visualization. While R requires programming knowledge, it's highly replicable, cost-effective, and scalable for large datasets. Sharing results can be done through R Markdown documents or Shiny apps, enabling reproducibility and collaboration.In summary, Power BI is great for quick insights, Alteryx for data prep, and R for in-depth analysis and flexibility. Each tool has its strengths and weaknesses, depending on the specific requirements and user expertise. #
