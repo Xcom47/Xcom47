@@ -1,0 +1,45 @@
+---
+title: "mod3_peer_review_Brian_Estvander"
+author: "Brian Estvander"
+date: "2024-03-19"
+output: html_document
+---
+# Introduction to Business Analytics with R
+```{r}
+d <- "05/08/2020"
+
+# Convert string to dateobject
+dateobject <- as.Date(d, format = "%m/%d/%Y")
+
+# Convert dateobject to POSIXct datetime
+datetime <- as.POSIXct(dateobject)
+```
+
+
+```{r}
+# Print the dateobject
+print(dateobject)
+```
+
+```{r}
+# Load lubridate function
+library(lubridate)
+```
+
+```{r}
+# Extract year, month number, week number, and weekday number from dateobject.
+
+d_year <- year(dateobject)
+d_month <- month(dateobject)
+d_week <- week(dateobject)
+d_day <- wday(dateobject)
+```
+
+```{r}
+# Create dateobject 25 days from now
+d_25 <- dateobject + days(25)
+
+# print d_25
+print(d_25)
+```
+
