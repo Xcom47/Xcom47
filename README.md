@@ -39,7 +39,7 @@ Since my last employment, I have decided to obtain specializations and certifica
 
 - Ultimately, I’m looking to leverage these technologies for material science in the area of regenrative medicine, small molecule and biologic drug development in R&D, QMS, manufacturing, production, and predictive business analysis.
 
-- 📫 How to reach me: bestvander@gmail.com and linkedIn www.linkedin.com/in/brian-estvander-9ba89758 and Kaggle https://www.kaggle.com/brianestvander or at my book author website ttps://www.inkstilled.com/
+- 📫 How to reach me: bestvander@gmail.com and linkedIn www.linkedin.com/in/brian-estvander-9ba89758 and Kaggle https://www.kaggle.com/brianestvander or at my book author website https://www.inkstilled.com/
 
 
 
