@@ -1,22 +1,39 @@
-- 👋 Hi, I’m Brian Estvander, aka Xcom47.
+👋 Hi, I’m Brian Estvander, aka Xcom47.
 My background is in cell physiology, biochemistry, pharmacology (small molecule and biologics) and regenerative medicine (materials, biologics, medical devices). I have been in the therapeutic areas of cognitive disorders, pain, spinal cord injury, wound healing, cartilage regeneration, and neurodegenerative disease for over 20 years. I have had experience in most departments within these industries including, R&D, product developement, project management, quality control and assurance, manufacturing, production, marketing, and general operations. While I enjoyed each of these departmental responsibilites indivually, I found that they are all glued together by common themes: IT project management, software and hardware development, data science, and cybersecurity.
 
 Since my last employment, I have decided to obtain specializations and certifications in several of the following genres, not because I have to, but because I am finding that I thoroughly enjoy programming, big data management, machine learning and information security. These areas will be further intergrated as all industries start to rely heavily on artificial intelligence applied with robotics and perhaps biomaterial.  So, I want to learn the basics and work my way up within these fields. Basically, I am not one to be left out anything new and interesting and well, inevitable. This page along with my studies is a work in progress and I don't envision it ever to be completed. So bare with me as I expose my newfound knowledge or lack thereof to all you pros who will be critical of me being so green.
 ### Languages and Tools
 
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
- <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />          
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> 
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />          
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-                                                                
-<br />
-
-#
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/minitab/minitab-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" />
+                                                                                   
+ <br />
+ <br />
+ <br />
+ 
+ #
 
 
 #### SPECIALIZATIONS AND CERTIFICATIONS SO FAR: ####
@@ -27,7 +44,7 @@ Since my last employment, I have decided to obtain specializations and certifica
     Project, Sharepoint
 
 #### Data Sciences ####
- * IBM AI Engineering Specialization (2024) - DNN, CNN, RNN, NLP, LLM, pytorch, kira, numpy, tensors, 
+ * IBM AI Engineering Specialization (2024) - DNN, CNN, RNN, NLP, LLM, pytorch, kiras, numpy, tensors, 
     Pandas, WatsonX, Kubeflow, python, Anaconda.   
   
  * U of Illinois Business Analytics Specialization (2024) - RStudio, R, Alteryx, PowerBI, html. 
@@ -53,7 +70,8 @@ Since my last employment, I have decided to obtain specializations and certifica
  *	Council of Supply Chain Management Professionals (CSCMP) (2023)	
 
 <br />
-<br />
+
+#
 
 * Ultimately, I’m looking to leverage these technologies for material science in the area of regenerative medicine, small molecule and biologics drug development in R&D, QMS, manufacturing, production, and predictive business analysis.
 
