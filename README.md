@@ -11,7 +11,7 @@ Since my last employment, I have decided to obtain specializations and certifica
                                   
 <br />
 <br />
-
+#
 
 #### SPECIALIZATIONS AND CERTIFICATIONS SO FAR ####
 
