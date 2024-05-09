@@ -4,8 +4,10 @@ My background is in cell physiology, biochemistry, pharmacology (small molecule 
 Since my last employment, I have decided to obtain specializations and certifications in several of the following genres, not because I have to, but because I am finding that I thoroughly enjoy programming, big data management, machine learning and information security. These areas will be further intergrated as all industries start to rely heavily on artificial intelligence applied with robotics and perhaps biomaterial.  So, I want to learn the basics and work my way up within these fields. Basically, I am not one to be left out anything new and interesting and well, inevitable. This page along with my studies is a work in progress and I don't envision it ever to be completed. So bare with me as I expose my newfound knowledge or lack thereof to all you pros who will be critical of me being so green.
 ### Languages and Tools
 
-<img align= "left" alt="Java" width="30px" style="padding-right:10px;" src="https://icons/powershell/powershell-original.svg"/> 
+ <img align="left" alt="Java" width="10px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+           
 #
+
 - Some of the Specializations and Certification I have obtained so far:
 
 #### Project Management ####
