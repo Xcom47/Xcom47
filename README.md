@@ -12,7 +12,8 @@ Since my last employment, I have decided to obtain specializations and certifica
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />          
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
- <img align="left" alt="Java" width="45px" style="padding-right:10px;"                                                        
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+                                                                
 <br />
 <br />
 
