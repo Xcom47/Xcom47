@@ -8,10 +8,11 @@ Since my last employment, I have decided to obtain specializations and certifica
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-                                  
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+                                         
 <br />
 <br />
-#
+
 
 #### SPECIALIZATIONS AND CERTIFICATIONS SO FAR ####
 
