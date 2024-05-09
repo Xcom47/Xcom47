@@ -7,9 +7,11 @@ Since my last employment, I have decided to obtain specializations and certifica
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-                          
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+                                  
 <br />
 <br />
+
 
 #### SPECIALIZATIONS AND CERTIFICATIONS SO FAR ####
 
@@ -31,7 +33,8 @@ Since my last employment, I have decided to obtain specializations and certifica
     Powershell.
     
 #### Security ####
- * Google Certified Information Systems Security Professional (CISSP) (2023) - Wireshark, SEIM, TCP/IP, IDS, CIM, API, Petentration Testing, NIST, Mitre Att&ck, RedHat, Splunk.
+ * Google Certified Information Systems Security Professional (CISSP) (2023) - Wireshark, SEIM, TCP/IP, IDS, CIM, API, 
+    Petentration Testing, NIST, Mitre Att&ck, RedHat, Splunk.
   
  * U of NewYork International Cyber Conflicts (2023) - CTI, IR, psychology of conflicts, RICE, perception, perspecctive.
   
@@ -43,11 +46,12 @@ Since my last employment, I have decided to obtain specializations and certifica
   
  *	Council of Supply Chain Management Professionals (CSCMP) (2023)	
 
-####
+<br />
+<br />
 
-- Ultimately, I’m looking to leverage these technologies for material science in the area of regenerative medicine, small molecule and biologics drug development in R&D, QMS, manufacturing, production, and predictive business analysis.
+* Ultimately, I’m looking to leverage these technologies for material science in the area of regenerative medicine, small molecule and biologics drug development in R&D, QMS, manufacturing, production, and predictive business analysis.
 
-- 📫 How to reach me: bestvander@gmail.com and linkedIn www.linkedin.com/in/brian-estvander-9ba89758 and Kaggle https://www.kaggle.com/brianestvander or at my book author website https://www.inkstilled.com/
+* 📫 How to reach me: bestvander@gmail.com and linkedIn www.linkedin.com/in/brian-estvander-9ba89758 and Kaggle https://www.kaggle.com/brianestvander or at my book author website https://www.inkstilled.com/
 
 
 
