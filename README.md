@@ -3,7 +3,6 @@ My background is in cell physiology, biochemistry, pharmacology (small molecule 
 
 Since my last employment, I have decided to obtain specializations and certifications in several of the following genres, not because I have to, but because I am finding that I thoroughly enjoy programming, big data management, machine learning and information security. These areas will be further intergrated as all industries start to rely heavily on artificial intelligence applied with robotics and perhaps biomaterial.  So, I want to learn the basics and work my way up within these fields. Basically, I am not one to be left out anything new and interesting and well, inevitable. This page along with my studies is a work in progress and I don't envision it ever to be completed. So bare with me as I expose my newfound knowledge or lack thereof to all you pros who will be critical of me being so green.
 ### Languages and Tools
-
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> 
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" />
@@ -15,9 +14,10 @@ Since my last employment, I have decided to obtain specializations and certifica
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
- <img align="left" alt="Java" width="35px" style="padding-right:5px;"   src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
- <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
- <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+ <img align="left" alt="Java" width="35px" style="padding-right:10px;"  src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
+ <img align="left" alt="Java" width="55px" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-left:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+ <img align="left" alt="Java" width="45px" style="padding-left:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
@@ -30,17 +30,15 @@ Since my last employment, I have decided to obtain specializations and certifica
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" />
-                                                                                   
- <br />
- <br />
- <br />
- 
- #
+
+<br />
+<br />
+<br />
 
 
-#### SPECIALIZATIONS AND CERTIFICATIONS SO FAR: ####
+### SPECIALIZATIONS and CERTIFICATIONS
 
-#### Project Management ####
+### Project Management ####
  * IBM-PMI IT Project Management Certification (2024) - Product Development Life Cycle, Software 
     Development Life Cylce, Agile, Waterfall, and Scrum methodologies, Risk Assessment, Jira, MS 
     Project, Sharepoint
