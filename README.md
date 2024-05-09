@@ -10,7 +10,8 @@ Since my last employment, I have decided to obtain specializations and certifica
                           
 <br />
 <br />
-#### SPECIALIZATIONS AND CERTIFICATIONS SO FAR:
+
+#### SPECIALIZATIONS AND CERTIFICATIONS SO FAR ####
 
 #### Project Management ####
  * IBM-PMI IT Project Management Certification (2024) - Product Development Life Cycle, Software 
