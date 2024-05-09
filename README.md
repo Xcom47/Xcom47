@@ -6,9 +6,9 @@ Since my last employment, I have decided to obtain specializations and certifica
 
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" />
-                 
-/>
-#### SPECIALIZATIONS AND CERTIFICATIONS SO FAR:
+ <img align="left" alt="Java" width="45px" style="padding-right:10px;"                
+
+SPECIALIZATIONS AND CERTIFICATIONS SO FAR:
 
 #### Project Management ####
  * IBM-PMI IT Project Management Certification (2024) - Product Development Life Cycle, Software 
