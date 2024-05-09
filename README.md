@@ -17,8 +17,8 @@ Since my last employment, I have decided to obtain specializations and certifica
  <img align="left" alt="Java" width="35px" style="padding-right:10px;"  src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
  <img align="left" alt="Java" width="55px" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" />
  <img align="left" alt="Java" width="45px" style="padding-left:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<br />
- <img align="left" alt="Java" width="45px" style="padding-left:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<br /> <br />
+ <img align="left" alt="Java" width="45px" style="padding-left:5px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
@@ -32,14 +32,14 @@ Since my last employment, I have decided to obtain specializations and certifica
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" />
 
-<br />
-<br />
-<br />
-
+ <br />
+ <br />
+ 
+#
 
 ### SPECIALIZATIONS and CERTIFICATIONS
 
-### Project Management ####
+#### Project Management ####
  * IBM-PMI IT Project Management Certification (2024) - Product Development Life Cycle, Software 
     Development Life Cylce, Agile, Waterfall, and Scrum methodologies, Risk Assessment, Jira, MS 
     Project, Sharepoint
