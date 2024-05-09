@@ -2,7 +2,7 @@
 My background is in cell physiology, biochemistry, pharmacology (small molecule and biologics) and regenerative medicine (materials, biologics, medical devices). I have been in the therapeutic areas of cognitive disorders, pain, spinal cord injury, wound healing, cartilage regeneration, and neurodegenerative disease for over 20 years. I have had experience in most departments within these industries including, R&D, product developement, project management, quality control and assurance, manufacturing, production, marketing, and general operations. While I enjoyed each of these departmental responsibilites indivually, I found that they are all glued together by common themes: IT project management, software and hardware development, data science, and cybersecurity.
 
 Since my last employment, I have decided to obtain specializations and certifications in several of the following genres, not because I have to, but because I am finding that I thoroughly enjoy programming, big data management, machine learning and information security. These areas will be further intergrated as all industries start to rely heavily on artificial intelligence applied with robotics and perhaps biomaterial.  So, I want to learn the basics and work my way up within these fields. Basically, I am not one to be left out anything new and interesting and well, inevitable. This page along with my studies is a work in progress and I don't envision it ever to be completed. So bare with me as I expose my newfound knowledge or lack thereof to all you pros who will be critical of me being so green.
-#### Languages and Tools
+### Languages and Tools
 
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />          
@@ -15,7 +15,8 @@ Since my last employment, I have decided to obtain specializations and certifica
  <img align="left" alt="Java" width="45px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
                                                                 
 <br />
-<br />
+
+#
 
 
 #### SPECIALIZATIONS AND CERTIFICATIONS SO FAR: ####
