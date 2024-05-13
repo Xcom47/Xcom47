@@ -62,8 +62,8 @@ Since my last employment, I have decided to obtain specializations and certifica
   
  * U of NewYork International Cyber Conflicts (2023) - CTI, IR, psychology of conflicts, RICE, perception, perspecctive.
   
- * IBM Introduction to The Threat Intelligence Life Cycle (2024) - HUMINT, SIGNT, Trickbot, MASINT, 
-    IMINT, OSINT, Mitre Att&ck, NIST, Intelligence at Strategic, operational, tactical levels, GEO- 
+ * IBM Introduction to The Threat Intelligence Life Cycle (2024) - HUMINT, SIGNT, MASINT, 
+    IMINT, OSINT, Trickbot, Mitre Att&ck, NIST, Intelligence at Strategic, operational, tactical levels, GEO- 
     Spatial, Automation with machine learning.
   
  * Applied ChatGPT for Cybersecurity Certification (2023) - ChatGPT-3.5 and 4, DALL-E
