@@ -45,10 +45,10 @@ Since my last employment, I have decided to obtain specializations and certifica
     Project, Sharepoint
 
 #### Data Sciences ####
- * IBM AI Engineering Specialization (2024) - DNN, CNN, RNN, NLP, LLM, pytorch, kiras, numpy, tensors, 
+ * IBM AI Engineering Specialization (2024) - DNN, CNN, RNN, NLP, LLM, ML, pytorch, kiras, numpy, tensors, 
     Pandas, WatsonX, Kubeflow, python, Anaconda.   
   
- * U of Illinois Business Analytics Specialization (2024) - RStudio, R, Alteryx, PowerBI, html. 
+ * U of Illinois Business Analytics Specialization (2024) - RStudio, R, Alteryx, PowerBI, html, Marketing and Accounting Data Analysis. 
   
  * CU of Boulder Database Management System Specialization (2024) - mySQL, postgresSQL, NoSQL, 
     SQLlite, Python, GEO Spatial applications, JSON, XML, Java, Linux Bash, Ubuntu.
