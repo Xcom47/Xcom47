@@ -59,8 +59,15 @@ Since my last employment, I have decided to obtain specializations and certifica
 #### Security ####
  * Google Certified Information Systems Security Professional (CISSP) (2023) - Wireshark, SEIM, TCP/IP, IDS, CIM, API, 
     Petentration Testing, NIST, Mitre Att&ck, RedHat, Splunk.
+ 
+ * CU of Boulder Homeland Security and Cybersecurity Specialization (2024) - Cybersecurity Policies and Applications for
+    Water, Electricity, Aviation, and Internet Infrastrucutres. Finance and Cybercrime.
+
+ * Erasmus University of Rotterdam International Security Management Specialization (2024) - The International Security Landscape, UNODC, 
+    INTERPOL, EUROPOL, Security Management, Security Risk Management, Internet Intelligence, Organized Crime and Terrorism (Chemical, 
+    Biological, Radiological, Nuclear) CBRN, Illicit Trade, Countering Illicit Trade, Security Leadership and Safety.  
   
- * U of NewYork International Cyber Conflicts (2023) - CTI, IR, psychology of conflicts, RICE, perception, perspecctive.
+ * U of New York International Cyber Conflicts (2023) - CTI, IR, psychology of conflicts, RICE, perception, perspecctive.
   
  * IBM Introduction to The Threat Intelligence Life Cycle (2024) - HUMINT, SIGNT, MASINT, 
     IMINT, OSINT, Trickbot, Mitre Att&ck, NIST, Intelligence at Strategic, operational, tactical levels, GEO- 
